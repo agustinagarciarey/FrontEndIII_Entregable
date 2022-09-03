@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import './App.css';
 import Cabecera from './components/Cabecera';
 import Listado from './components/Listado';
 
